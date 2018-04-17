@@ -1,0 +1,15 @@
+
+*.opensdf
+*.exe
+*.pdb
+*.ilk
+*.ipch
+*.sdf
+*.obj
+*.log
+*.tlog
+*.idb
+*.pch
+*.suo
+*.filters
+hang-ten/Dante Mason Hangman Checkpoint.cpp
