@@ -43,7 +43,7 @@ void averageprice(string path)
 		sumofnum += priceD;
 		countofnum++;
 	}
-	cout << "Average price " << sumofnum/countofnum << endl;
+	cout << "Average closing price " << sumofnum/countofnum << endl;
 	stockdata.close();
 }
 int main()
